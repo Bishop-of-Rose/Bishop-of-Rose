@@ -13,7 +13,7 @@
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Bishop-of-Rose&layout=compact&langs_count=8&card_width=250">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Bishop-of-Rose&hide_border=true&layout=compact&langs_count=8&card_width=2500&theme=midnight-purple"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Bishop-of-Rose&hide_border=true&layout=compact&langs_count=8&card_width=250&theme=midnight-purple"
       media="(prefers-color-scheme: dark)"
     />
     <img
