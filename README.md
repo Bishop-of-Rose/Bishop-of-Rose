@@ -1,1 +1,1 @@
-[![Bishop of Rose's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bishop-of-Rose)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Bishop-of-Rose&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=Bishop-of-Rose&show_icons=true&include_all_commits=true&theme=blue_navy)
